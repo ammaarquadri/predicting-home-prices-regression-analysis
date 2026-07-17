@@ -102,7 +102,8 @@ The project explores multiple regression techniques, compares their performances
 ---
 
 # 🏗️ System Architecture
-
+<div align="center">
+  
 ```
                 Boston Housing Dataset
                          │
@@ -129,7 +130,7 @@ The project explores multiple regression techniques, compares their performances
                          ▼
               Home Price Prediction
 ```
-
+</div>
 ---
 
 # 📂 Project Structure
@@ -527,7 +528,7 @@ https://www.linkedin.com/in/ammaarquadri/
 # 🗺️ Complete Workflow Overview
 
 <p align="center">
-  <img src="Images/workflow.png" width="100%" alt="Complete Workflow Overview">
+  <img src="workflow.png" width="100%" alt="Complete Workflow Overview">
 </p>
 
 <div align="center">
