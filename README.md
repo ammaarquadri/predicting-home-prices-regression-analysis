@@ -102,7 +102,6 @@ The project explores multiple regression techniques, compares their performances
 ---
 
 # 🏗️ System Architecture
-<div align="center">
   
 ```
                 Boston Housing Dataset
@@ -130,7 +129,7 @@ The project explores multiple regression techniques, compares their performances
                          ▼
               Home Price Prediction
 ```
-</div>
+
 ---
 
 # 📂 Project Structure
